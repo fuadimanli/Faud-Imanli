@@ -1,12 +1,12 @@
 # Faud-Imanli
-![Header](./github-header-image.png)
 
-- 📫 How to reach me : **alakbarabdullayev70@gmail.com**
-<!-- - ⚡ Fun fact : **I love to eat tvarok** -->
+
+- 📫 How to reach me : **fuad.imanlii0@gmail.com**
+<!-- - ⚡ Fun fact : **I love to eat cholpa** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alakbar-abdullayev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/alakbar-abdullayev/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fuadimanli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/fuadimanli/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
