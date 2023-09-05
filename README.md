@@ -1,4 +1,4 @@
-# Faud-Imanli
+# Fuad-Imanli
 
 
 - 📫 How to reach me : **fuad.imanlii0@gmail.com**
